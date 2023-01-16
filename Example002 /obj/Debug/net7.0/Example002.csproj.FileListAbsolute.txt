@@ -1,0 +1,15 @@
+/Users/ila/Documents/Example/Example002 /bin/Debug/net7.0/Example002
+/Users/ila/Documents/Example/Example002 /bin/Debug/net7.0/Example002.deps.json
+/Users/ila/Documents/Example/Example002 /bin/Debug/net7.0/Example002.runtimeconfig.json
+/Users/ila/Documents/Example/Example002 /bin/Debug/net7.0/Example002.dll
+/Users/ila/Documents/Example/Example002 /bin/Debug/net7.0/Example002.pdb
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.csproj.AssemblyReference.cache
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.AssemblyInfoInputs.cache
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.AssemblyInfo.cs
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.csproj.CoreCompileInputs.cache
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.dll
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/refint/Example002.dll
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.pdb
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/Example002.genruntimeconfig.cache
+/Users/ila/Documents/Example/Example002 /obj/Debug/net7.0/ref/Example002.dll
